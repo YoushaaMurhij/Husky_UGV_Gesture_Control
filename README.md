@@ -2,7 +2,10 @@
 This repository is based on Unity and ROS to simulate hand gesture control of Husky mobile robot.
 
 # Usage
-- Clone the offical Husky UGV repositpry.
+- Clone the offical Husky UGV repositpry:
+  ```
+git clone https://github.com/husky/husky.git
+
 - ~~Add RosBridge socket to this repository and rebuild your Workspace.~~ [Already added]
 - Add ROSConnect asset to Unity.
 - Clone this repositroy.
