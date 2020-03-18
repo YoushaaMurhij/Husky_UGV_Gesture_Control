@@ -11,6 +11,6 @@ This repository is based on Unity and ROS to simulate hand gesture control of Hu
 
   ```git clone https://github.com/YoushaaMurhij/Husky_UGV_Gesture_Control.git```
 - Configure your IP and Port in Unity.
-- Run your project from ROS.
+- Run your project from ROS and Unity.
 
 
