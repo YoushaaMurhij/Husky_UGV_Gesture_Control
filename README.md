@@ -1,7 +1,7 @@
 # Husky UGV Gesture Control
 This repository is based on Unity and ROS to simulate hand gesture control of Husky mobile robot.
 
-# Usage
+# Usage:
 - Clone the offical Husky UGV repository:
 
   ```git clone https://github.com/husky/husky.git```
