@@ -84,9 +84,6 @@ def values(stdscr):
         twist.linear.x = twist.linear.y = twist.angular.z = 0.0
         print 'Wrong command entered \n'
 
-
-    stdscr.refresh()
-    return twist
 '''
 
 
