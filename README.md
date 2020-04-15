@@ -14,4 +14,6 @@ This repository is based on Unity and ROS to simulate hand gesture control on Hu
 - ~~Add the required publishers and subscribers.~~[Done]
 - Run your project from ROS and Unity.
 
-
+<p align="center">
+  <img height="300" src="/husky.gif"> </img>
+</p>
