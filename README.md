@@ -21,7 +21,7 @@ This repository is based on Unity and ROS to simulate hand gesture control on Hu
 
 - Sample code to start with can be found in *Husky.py* file.
 
-```
+```python
     frame = controller.frame()
     Factor_LM_XY = -0.2
     Factor_LM_Z = -0.5
