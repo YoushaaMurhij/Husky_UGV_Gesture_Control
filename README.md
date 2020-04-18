@@ -18,9 +18,11 @@ This repository is based on Unity and ROS to simulate hand gesture control on Hu
 <p align="center">
   <img src="/husky.gif"> </img>
 </p>
+
 <p align="center">
   <img src="/Husky_unity.gif"> </img>
 </p>
+
 - Sample code to start with can be found in *Husky.py* file.
 
 ```python
